@@ -3,8 +3,6 @@ A list of ideas for future programs
 
 * Todo App
 
-* Add File Joiner to Library
-
 * Gopher server/client
 
 * FTP client/server
