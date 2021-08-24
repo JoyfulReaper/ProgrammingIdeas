@@ -8,3 +8,4 @@ A list of ideas for future programs
 * old school BBS type thing 
 * Time zone conversion API
 * Dead Man's switch website
+* Plant wattering tracker
