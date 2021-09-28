@@ -9,4 +9,6 @@ A list of ideas for future programs
 * Time zone conversion API
 * Dead Man's switch website
 * Plant wattering tracker
-* Paste bin
+* Paste bin site
+* Programming Project Idea site
+* Discord Server/Bot list
