@@ -12,3 +12,4 @@ A list of ideas for future programs
 * Paste bin site
 * Programming Project Idea site
 * Discord Server/Bot list
+* URL Shortener
