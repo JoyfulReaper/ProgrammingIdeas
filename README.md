@@ -13,3 +13,4 @@ A list of ideas for future programs
 * Programming Project Idea site
 * Discord Server/Bot list
 * URL Shortener
+* Budget Tracker
