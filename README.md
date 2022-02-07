@@ -14,3 +14,4 @@ A list of ideas for future programs
 * Discord Server/Bot list
 * URL Shortener
 * Budget Tracker
+* ADO Mini ORM like we use at work
