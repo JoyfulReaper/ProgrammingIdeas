@@ -8,10 +8,11 @@ A list of ideas for future programs
 * old school BBS type thing 
 * Time zone conversion API
 * Dead Man's switch website
-* Plant wattering tracker
+* Plant watering tracker
 * Paste bin site
 * Programming Project Idea site
 * Discord Server/Bot list
 * URL Shortener
 * Budget Tracker
 * ADO Mini ORM like we use at work
+* Pictue of shelly API
